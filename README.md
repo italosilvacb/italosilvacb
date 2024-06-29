@@ -169,7 +169,7 @@
 ###
 
 <div align="center">
-  <img src="https://static.wikia.nocookie.net/valorant/images/f/fe/Neon_Artwork_Full.png/revision/latest/scale-to-width-down/1200?cb=20220810202800" height="650" width="72%" alt="foto da neon, personagem do jogo valorant" />
+  <img src="https://static.wikia.nocookie.net/valorant/images/f/fe/Neon_Artwork_Full.png/revision/latest/scale-to-width-down/1200?cb=20220810202800" height="650" alt="foto da neon, personagem do jogo valorant" />
 </div>
 
 ###
