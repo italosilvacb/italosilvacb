@@ -9,38 +9,42 @@
 
 ###
 
-<img align="center" height="150" src="https://pa1.aminoapps.com/8039/6c92da337d65b9c49f97169cb4e804dc92f456ber1-264-165_hq.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="17" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="17" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="17" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="17" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="17" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="17" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="17" />
+  <img width="8" />
+  <img src="https://icones.pro/wp-content/uploads/2021/06/icone-github-orange.png" height="30" alt="github logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="30" alt="premierepro logo"  />
-  <img width="17" />
+  <img width="8" />
+  <img src="https://www.svgrepo.com/show/475668/photoshop-color.svg" height="30" alt="photoshop logo"  />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Adobe_Premiere_Pro_Logo.svg/768px-Adobe_Premiere_Pro_Logo.svg.png?20170508164447" height="30" alt="premierepro logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="17" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="17" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="30" alt="behance logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="8" />
+  <img src="https://crackcut.com/wp-content/uploads/2021/02/Sound-Forge-Pro-Crack.png" height="30" alt="soundforge logo" />
+  <img width="8" />
+  <img src="https://seeklogo.com/images/V/valorant-logo-FAB2CA0E55-seeklogo.com.png" height="30" alt="soundforge logo" />
+  <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/FFC_crest.svg" height="30" alt="soundforge logo" />
+  <img width="8" />
+  
 </div>
 
 ###
@@ -59,7 +63,10 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/italosilvacb/count.svg?"  />
+  <img src="https://media1.tenor.com/m/iqFsWpIvdYUAAAAd/valorant-neon.gif" alt="GIF" />"
 </div>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/italosilvacb/count.svg?"  />
+</div>
